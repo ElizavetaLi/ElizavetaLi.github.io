@@ -1,2 +1,2 @@
-# ElizavetaLi.github.io
+#My Site
 Сайт визитка на HTML+CSS+JS
